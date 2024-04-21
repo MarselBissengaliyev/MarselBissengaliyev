@@ -14,7 +14,7 @@ My name is Marsel Bisengaliev - I am a Fullstack developer.
     2019 – 2023 | Uralsk, Kazakhstan
 
 ## SKILLS 🛠
-Frontend:
+###### Frontend:
 - HTML, JSX
 - CSS, SASS, LESS
 - Bootstrap, Material UI, Tailwind CSS
@@ -22,12 +22,12 @@ Frontend:
 - React JS, React-router-dom
 - Axios, Redux, Redux Toolkit
   
-Backend
+###### Backend
 - Node JS, Express, Mongoose, Multer, DotEnv,
 Express-validator, JsonWebToken
 - PHP, Laravel, Eloquent, Blades
   
-Additional
+###### Additional
 - GIT, GitHub
 - Docker, Docker-compose
 
